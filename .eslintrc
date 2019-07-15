@@ -1,0 +1,6 @@
+{
+  "extends": "./index.js",
+  "rules": {
+    "quote-props": ["error", "always"]
+  }
+}
