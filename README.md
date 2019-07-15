@@ -1,4 +1,4 @@
-# eslint-config-stermedia-react
+# eslint-config-stermedia-react-es6
 
 [![npm version](https://badge.fury.io/js/eslint-config-stermedia-react-es6.svg)](http://badge.fury.io/js/eslint-config-stermedia-react-es6)
 
